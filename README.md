@@ -45,7 +45,7 @@ Install-Module AzureRM
 * [DTU Calculator](http://dtucalculator.azurewebsites.net/) - Udregning af nødvendige DTU for en SQL database.
 * [Reddit Azure](https://www.reddit.com/r/AZURE/) - Azure på Reddit
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?page=1&src=blogTestDrive) - Azure Marketplace, kan bl.a. bruges til test drive.
-* [Preview features(https://azure.microsoft.com/en-us/services/preview/)] - Liste over alle preview features.
+* [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Liste over alle preview features.
 
 
 ## Authors
