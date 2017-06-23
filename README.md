@@ -46,6 +46,9 @@ Install-Module AzureRM
 * [Reddit Azure](https://www.reddit.com/r/AZURE/) - Azure på Reddit
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?page=1&src=blogTestDrive) - Azure Marketplace, kan bl.a. bruges til test drive.
 * [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Liste over alle preview features.
+* [Azure pricing](https://azure.microsoft.com/da-dk/pricing/calculator/) - Azure prissætning.
+* [Test Website](http://athazuretrainweb.azurewebsites.net/) - Test Website.
+* [Test Website](https://athazuretrainweb.scm.azurewebsites.net/) - Test Website .. Kudu
 
 
 ## Authors
