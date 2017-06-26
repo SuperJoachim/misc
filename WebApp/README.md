@@ -11,7 +11,7 @@
 ## Øvelse
 
 * Opret BlogEngine.NET website
-* Opsæt backup til at køre en gang i timen.
+* Opsæt backup til at køre hver anden time.
 * Browse Kudu interface
 
 
