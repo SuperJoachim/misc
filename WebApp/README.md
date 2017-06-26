@@ -17,7 +17,7 @@
 
 ### Bonus
 
-* Opret Webjob der trigger en Webhook via powershell.
+* Opret Webjob der kører WebJobTest.exe filen en gang hvert minut. Se om du kan få output printet på skærmen.
 * Kør en performance test.
 * Monitorer for alle 404 fejl.
 * Opret test deployment slot - swap frem og tilbage.
