@@ -19,7 +19,9 @@ PowerShell med Azure modul installeret.
 
 ### Installing PowerShellGet
 
-Først skal PowerShellGet installeres, da dette bruges til at installere Azure PowerShell
+Først skal PowerShellGet installeres, da dette bruges til at installere Azure PowerShell. 
+
+Tjek om det er installeret ved at skrive følgende:
 
 ```
 Get-Module PowerShellGet -list | Select-Object Name,Version,Path
@@ -32,6 +34,8 @@ Name          Version Path
 ----          ------- ----
 PowerShellGet 1.0.0.1 C:\Program Files\WindowsPowerShell\Modules\PowerShellGet\1.0.0.1\PowerShellGet.psd1
 ```
+
+Hvis det ikke er installeres, kan der der findes guide her: [Install PowershellGet](https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-4.1.0#how-to-get-powershellget)
 
 ## Installing PowerShell Azure
 
