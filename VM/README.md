@@ -8,18 +8,18 @@
 
 ## Øvelse
 
-Opret Windows Server 2016
-Opsæt Auto-Shutdown.
-Opsæt overvågning ved over 90% cpu forbrug over en time.
-Tjek at boot diagnostics er ok.
+* Opret Windows Server 2016
+* Opsæt Auto-Shutdown.
+* Opsæt overvågning ved over 90% cpu forbrug over en time.
+* Tjek at boot diagnostics er ok.
 
 
 ### Bonus
 
-Opret tre vn'er i et Scaleset.
-Tilføj en ekstra datadisk.
-Tilføj ekstra ekstern IP adresse.
-Deploy via powershell setup fra undermappe "to-tier-deploy"
+* Opret tre vn'er i et Scaleset.
+* Tilføj en ekstra datadisk.
+* Tilføj ekstra ekstern IP adresse.
+* Deploy via powershell setup fra undermappe "to-tier-deploy"
 
 ## Authors
 

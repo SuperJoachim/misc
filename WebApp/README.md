@@ -10,16 +10,16 @@
 
 ## Øvelse
 
-Opret BlogEngine.NET website
-Opsæt backup til at køre en gang i timen.
-Browse Kudu interface
+* Opret BlogEngine.NET website
+* Opsæt backup til at køre en gang i timen.
+* Browse Kudu interface
 
 
 ### Bonus
 
-Opret Webjob der trigger en Webhook.
-Kør en performance test.
-Monitorer for alle 404 fejl.
+* Opret Webjob der trigger en Webhook.
+* Kør en performance test.
+* Monitorer for alle 404 fejl.
 
 
 ## Gode links
