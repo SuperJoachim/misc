@@ -1,25 +1,32 @@
-# Azure undervisning - VM
+﻿# Azure undervisning - WebApp
 
-* Basics - Deploy, scale sets, service plans (up - out), diagnostics
-* Premium disks
-* Managed disks
-* VM Networks - Virtual Network, Network interface, public IP address, NSG.
-* Extensions - backup, antivirus, puppet.
+* Basics - Deploy, domæains, service plans (up - out)
+* Webjobs
+* Kudu
+* Performance Test
+* Backup
+* Monitoring
+
 
 ## Øvelse
 
-Opret Windows Server 2016
-Opsæt Auto-Shutdown.
-Opsæt overvågning ved over 90% cpu forbrug over en time.
-Tjek at boot diagnostics er ok.
+Opret BlogEngine.NET website
+Opsæt backup til at køre en gang i timen.
+Browse Kudu interface
 
 
 ### Bonus
 
-Opret tre vn'er i et Scaleset.
-Tilføj en ekstra datadisk.
-Tilføj ekstra ekstern IP adresse.
-Deploy via powershell setup fra undermappe "to-tier-deploy"
+Opret Webjob der trigger en Webhook.
+Kør en performance test.
+Monitorer for alle 404 fejl.
+
+
+## Gode links
+
+* [Test Website](http://athazuretrainweb.azurewebsites.net/) - Test Website.
+* [Test Website](https://athazuretrainweb.scm.azurewebsites.net/) - Test Website .. Kudu
+
 
 ## Authors
 
