@@ -8,7 +8,8 @@
 
 ## Øvelse
 
-* Opret Windows Server 2016
+* Opret Windows Server 2016.
+* Log på VM'en via RDP.
 * Opsæt Auto-Shutdown.
 * Opsæt overvågning ved over 90% cpu forbrug over en time.
 * Tjek at boot diagnostics er ok.
