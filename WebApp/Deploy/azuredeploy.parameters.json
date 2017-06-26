@@ -1,0 +1,24 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vmSize": {
+      "value": "Standard_D1_v2"
+    },
+    "vmPrefix": {
+      "value": "ath"
+    },
+    "vmName": {
+      "value": "frontend"
+    },
+    "vmBackendname": {
+      "value": "backend"
+    },
+    "location": {
+      "value": "West Europe"
+    },
+    "modulesUrl": {
+      "value": "https://github.com/SuperJoachim/misc/tree/master/WebApp/Deploy/AthenaBackendSite.zip"
+    }
+  }
+}
