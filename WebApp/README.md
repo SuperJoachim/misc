@@ -17,9 +17,10 @@
 
 ### Bonus
 
-* Opret Webjob der trigger en Webhook.
+* Opret Webjob der trigger en Webhook via powershell.
 * Kør en performance test.
 * Monitorer for alle 404 fejl.
+* Opret test deployment slot - swap frem og tilbage.
 
 
 ## Gode links
