@@ -10,14 +10,14 @@
 
 ## Øvelse
 
-Opret SQL Database med demo data (AdventureWorks) - standard tier.
-Sæt op Geo-Replication med read muligheder til Asien.
-Importer CSV fil til at se DTU på miljø.
+* Opret SQL Database med demo data (AdventureWorks) - standard tier.
+* Sæt op Geo-Replication med read muligheder til Asien.
+* Importer CSV fil til at se DTU på miljø.
 
 ### Bonus
 
-Opret Elastic Pool.
-Monitorer for alle blocks i firewall
+* Opret Elastic Pool.
+* Monitorer for alle blocks i firewall
 
 
 ## Gode links
