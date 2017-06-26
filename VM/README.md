@@ -19,7 +19,7 @@
 * Opret tre vn'er i et Scaleset.
 * Tilføj en ekstra datadisk.
 * Tilføj ekstra ekstern IP adresse.
-* Deploy via powershell setup fra undermappe "to-tier-deploy"
+* Deploy via powershell setup fra undermappe "Deploy" (er ikke testet)
 
 ## Authors
 
