@@ -21,6 +21,11 @@
 * Tilføj ekstra ekstern IP adresse.
 * Deploy via powershell setup fra undermappe "Deploy" (er ikke testet)
 
+### Diverse screenshots
+
+* VM Netvorks opbygning
+![VM Overview](https://github.com/SuperJoachim/misc/blob/master/VM/VMNetwork.png)
+
 ## Authors
 
 * **Joachim Stapelfeldt** - *Initial work* - [joachim@stapelfeldt.com](mailto:joachim@stapelfeldt.com)
