@@ -16,7 +16,7 @@
     },
     "dnsLB": {
       "type": "string",
-      "defaultvalue": "umjoslb"
+      "defaultvalue": "athjoslb"
     },
     "vmPrefix": {
       "type": "string"
